@@ -1,0 +1,4 @@
+# Placeholder for move sound effect
+# In a real project, this would be a short .ogg file (50-100ms)
+# representing a "blip" or "click" sound when the snake moves
+# Suggested: 44.1kHz, mono, 16-bit

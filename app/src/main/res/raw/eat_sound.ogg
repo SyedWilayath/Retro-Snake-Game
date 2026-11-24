@@ -1,0 +1,4 @@
+# Placeholder for eat sound effect
+# In a real project, this would be a short .ogg file (200-300ms)
+# representing a "pop" or "chomp" sound when the snake eats food
+# Suggested: 44.1kHz, mono, 16-bit

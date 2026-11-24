@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RetroSnake" parent="android:Theme.Material.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:colorPrimary">@color/retro_dark_green</item>
+        <item name="android:colorPrimaryDark">@color/retro_green</item>
+        <item name="android:colorAccent">@color/retro_light_green</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/retro_black</item>
+    </style>
+</resources>

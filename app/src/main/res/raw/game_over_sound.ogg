@@ -1,0 +1,4 @@
+# Placeholder for game over sound effect
+# In a real project, this would be a short .ogg file (500-1000ms)
+# representing a "buzz" or "sad tone" sound when the game ends
+# Suggested: 44.1kHz, mono, 16-bit

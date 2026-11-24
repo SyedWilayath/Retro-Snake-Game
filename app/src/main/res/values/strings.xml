@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RETRO SNAKE GAME</string>
+    <string name="play">Play</string>
+    <string name="high_scores">High Scores</string>
+    <string name="game_over">Game Over</string>
+    <string name="score">Score</string>
+    <string name="play_again">Play Again</string>
+    <string name="quit">Quit</string>
+    <string name="back">Back</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="instructions">Swipe or use arrow buttons to control the snake. Eat food to grow and score points. Avoid hitting walls or yourself.</string>
+    <string name="no_scores">No scores yet!</string>
+    <string name="play_to_score">Play a game to set your first high score</string>
+</resources>
